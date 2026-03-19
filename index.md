@@ -1,7 +1,3 @@
-%% Parent::[[]] %%
-%% Friend::[[]] %%
-
----
 
 ### **1. Grundaussagen des Textes**
 
@@ -12,7 +8,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 - **Es gab kein explizites Dekret, aber klare Verantwortung:**
     
-    ><span style="color:green;"> _„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“_<\span> 
+    ><span style="color:green;"> _„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“_ 
     > _„Stalin [...] fürchtete, die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_  
     > _„Am 14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“_
     
