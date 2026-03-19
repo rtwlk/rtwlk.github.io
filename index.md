@@ -7,21 +7,21 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 - **Es gab kein explizites Dekret, aber klare Verantwortung:**
     
-    ><span style="color:green;">_„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“_</span> [S. 7]
-    > _„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_</span>  
-    >_„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“_
+    > - <span style="color:green;">_„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“_</span> [S. 7]
+    > - _„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_</span>  
+    > - _„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“_
     
 - **Die Hungersnot war ein politisches Mittel der Vernichtung:**
     
-    > _„Die <span style="color:green;">gezielte Aushungerung der Ukraine mit der Folge des Massensterbens und der Anschlag auf die ukrainische Sprache und Kultur geben dem sowjetischen Vorgehen einen genozidalen Charakter.“_ </span> [S. 8]
-    > <span style="color:green;">_„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“_ </span>[S. 12]
-    > <span style="color:green;">_„Opfer des Hungertodes war vor allem die ländliche Bevölkerung in der Ukraine, auch im Kuban-Gebiet, in Kasachstan und in der Wolga-Uralregion.“_ </span>[S. 7]
+    > -  _„Die <span style="color:green;">gezielte Aushungerung der Ukraine mit der Folge des Massensterbens und der Anschlag auf die ukrainische Sprache und Kultur geben dem sowjetischen Vorgehen einen genozidalen Charakter.“_ </span> [S. 8]
+    > - <span style="color:green;">_„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“_ </span>[S. 12]
+    > - <span style="color:green;">_„Opfer des Hungertodes war vor allem die ländliche Bevölkerung in der Ukraine, auch im Kuban-Gebiet, in Kasachstan und in der Wolga-Uralregion.“_ </span>[S. 7]
     
 - **Stalins antiukrainische Obsession als Auslöser:**
     
-    > <span style="color:green;">_„Angesichts der Rückschläge seiner Kollektivierungspolitik malte Stalin im April 1932 den Teufel an die Wand: Gegenüber dem ukrainischen KP-Chef Stanislav Kosior äusserte er die Befürchtung, die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_  </span> [S. 14]
-    ><span style="color:green;"> _„Am 1. Januar 1933 befahl Stalin die Verfolgung der Bauern, die Getreide versteckten. Mit diesem Befehl wurden die Requirierungsmassnahmen verstärkt, die zu der schlimmsten Phase des Massensterbens in der Ukraine führten.“_ </span> [S. 15]
-    > <span style="color:green;">_„Die gezielte Verschärfung der Abschnürung der Ukraine in der letzten Phase des Holodomors war offenbar durch Stalins antiukrainische Obsession bedingt.“_ </span> [S. 15]
+    > - <span style="color:green;">_„Angesichts der Rückschläge seiner Kollektivierungspolitik malte Stalin im April 1932 den Teufel an die Wand: Gegenüber dem ukrainischen KP-Chef Stanislav Kosior äusserte er die Befürchtung, die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_  </span> [S. 14]
+    >- <span style="color:green;"> _„Am 1. Januar 1933 befahl Stalin die Verfolgung der Bauern, die Getreide versteckten. Mit diesem Befehl wurden die Requirierungsmassnahmen verstärkt, die zu der schlimmsten Phase des Massensterbens in der Ukraine führten.“_ </span> [S. 15]
+    > - <span style="color:green;">_„Die gezielte Verschärfung der Abschnürung der Ukraine in der letzten Phase des Holodomors war offenbar durch Stalins antiukrainische Obsession bedingt.“_ </span> [S. 15]
     
 
 ---
