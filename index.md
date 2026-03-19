@@ -8,21 +8,21 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 - **Es gab kein explizites Dekret, aber klare Verantwortung:**
     
-    ><span style="color:green;"> _„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“_ 
-    > _„Stalin [...] fürchtete, die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_  
-    > _„Am 14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“_
+    ><span style="color:green;"> _„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“_</span>  </span> [S. 7]
+    > _„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_  
+    > _„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“_
     
 - **Die Hungersnot war ein politisches Mittel der Vernichtung:**
     
-    > _„Die gezielte Aushungerung der Ukraine mit der Folge des Massensterbens und der Anschlag auf die ukrainische Sprache und Kultur geben dem sowjetischen Vorgehen einen genozidalen Charakter.“_  
-    > _„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“_  
-    > _„Opfer des Hungertodes war vor allem die ländliche Bevölkerung in der Ukraine, auch im Kuban-Gebiet, in Kasachstan und in der Wolga-Uralregion.“_
+    > _„Die <span style="color:green;">gezielte Aushungerung der Ukraine mit der Folge des Massensterbens und der Anschlag auf die ukrainische Sprache und Kultur geben dem sowjetischen Vorgehen einen genozidalen Charakter.“_ </span> [S. 8]
+    > <span style="color:green;">_„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“_ </span>[S. 12]
+    > <span style="color:green;">_„Opfer des Hungertodes war vor allem die ländliche Bevölkerung in der Ukraine, auch im Kuban-Gebiet, in Kasachstan und in der Wolga-Uralregion.“_ </span>[S. 7]
     
 - **Stalins antiukrainische Obsession als Auslöser:**
     
-    > _„Angesichts der Rückschläge seiner Kollektivierungspolitik malte Stalin im April 1932 den Teufel an die Wand: Gegenüber dem ukrainischen KP-Chef Stanislav Kosior äusserte er die Befürchtung, die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_  
-    > _„Am 1. Januar 1933 befahl Stalin die Verfolgung der Bauern, die Getreide versteckten. Mit diesem Befehl wurden die Requirierungsmassnahmen verstärkt, die zu der schlimmsten Phase des Massensterbens in der Ukraine führten.“_  
-    > _„Die gezielte Verschärfung der Abschnürung der Ukraine in der letzten Phase des Holodomors war offenbar durch Stalins antiukrainische Obsession bedingt.“_
+    > <span style="color:green;">_„Angesichts der Rückschläge seiner Kollektivierungspolitik malte Stalin im April 1932 den Teufel an die Wand: Gegenüber dem ukrainischen KP-Chef Stanislav Kosior äusserte er die Befürchtung, die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_  </span> [S. 14]
+    ><span style="color:green;"> _„Am 1. Januar 1933 befahl Stalin die Verfolgung der Bauern, die Getreide versteckten. Mit diesem Befehl wurden die Requirierungsmassnahmen verstärkt, die zu der schlimmsten Phase des Massensterbens in der Ukraine führten.“_ </span> [S. 15]
+    > <span style="color:green;">_„Die gezielte Verschärfung der Abschnürung der Ukraine in der letzten Phase des Holodomors war offenbar durch Stalins antiukrainische Obsession bedingt.“_ </span> [S. 15]
     
 
 ---
@@ -34,21 +34,21 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 - **Die Hungersnot war gegen die Existenz der ukrainischen Nation gerichtet:**
     
-    > _„Raphael Lemkin [...] argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“_  
-    > _„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“_  
-    > _„Die gezielte Aushungerung der Ukraine [...] geben dem sowjetischen Vorgehen einen genozidalen Charakter.“_
+    > _„Raphael Lemkin [...] <span style="color:green;">argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“_ </span> [S. 12]
+    > _<span style="color:green;">„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“_ </span> [S. 12]
+    > _„Die <span style="color:green;">gezielte Aushungerung der Ukraine [...] geben dem sowjetischen Vorgehen einen genozidalen Charakter.“_</span> [S. 8]
     
 - **Die Unterdrückung der Erinnerung war Teil des Genozids:**
     
-    > _„Die Unterdrückung der Erinnerung an die Hungersnot ist Teil des versuchten Völkermords, den die Sowjetunion in dieser Zeit auch an den Kasachen verübte.“_  
-    > _„Das Staatsverbrechen blieb bis gegen Ende der Sowjetunion ein Tabu.“_  
-    > _„Im Inneren konnte die sowjetische Politik ihr Informationsmonopol über den Holodomor durch repressive Mittel behaupten.“_
+    > <span style="color:green;">_„Die Unterdrückung der Erinnerung an die Hungersnot ist Teil des versuchten Völkermords, den die Sowjetunion in dieser Zeit auch an den Kasachen verübte.“_</span> [S. 8]  
+    > <span style="color:green;">_„Das Staatsverbrechen blieb bis gegen Ende der Sowjetunion ein Tabu.“_ </span> [S. 9]
+    > <span style="color:green;">_„Im Inneren konnte die sowjetische Politik ihr Informationsmonopol über den Holodomor durch repressive Mittel behaupten.“_</span> [S. 9]
     
 - **Die gezielte Requirierung und Abschnürung der Ukraine führte zum Massensterben:**
     
-    > _„Auf dem Höhepunkt der Krise schickte die Partei Trupps in die Dörfer, die erbarmungslos Getreide, selbst das Saatgut, Vieh, Gemüse, kurzum alles Essbare requirierten.“_  
-    > _„Am 1. Januar 1933 befahl Stalin die Verfolgung der Bauern, die Getreide versteckten.“_  
-    > _„Die gezielte Verschärfung der Abschnürung der Ukraine [...] führte zum Massensterben.“_
+    > <span style="color:green;">_„Auf dem Höhepunkt der Krise schickte die Partei Trupps in die Dörfer, die erbarmungslos Getreide, selbst das Saatgut, Vieh, Gemüse, kurzum alles Essbare requirierten.“_</span> [S. 7]
+    > <span style="color:green;">_„Am 1. Januar 1933 befahl Stalin die Verfolgung der Bauern, die Getreide versteckten.“_</span> [S. 15]  
+    > <span style="color:green;">_„Die gezielte Verschärfung der Abschnürung der Ukraine [...] führte zum Massensterben.“_</span> [S. 15]
     
 
 ---
@@ -57,11 +57,11 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 | Merkmal                                                     | Zitat                                                                                                                                                                                                                                                | Textstelle                              |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| **Kein Zufall, kein Dekret, aber klare Verantwortung**      | <span style="color:green;">_„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“_<\span> | ~~S. 10~~<br>S. 7                       |
-| **Planmässig herbeigeführtes Massensterben**                | _„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“                                                                                                 | <span style="color:green;">S. 14<\span> |
-| **Genozidale Absicht: Vernichtung der ukrainischen Nation** | _„Raphael Lemkin [...] <span style="color:green;">argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“_<\span>                                                               | ~~S. 22~~<br>S. 12                      |
-| **Gezielte Requirierung und Abschnürung der Ukraine**       | <span style="color:green;">_„Auf dem Höhepunkt der Krise schickte die Partei Trupps in die Dörfer, die erbarmungslos Getreide, selbst das Saatgut, Vieh, Gemüse, kurzum alles Essbare requirierten.“_<\span>                                         | ~~S. 10~~<br>S. 7                       |
-| **Unterdrückung der Erinnerung als Teil des Genozids**      | <span style="color:green;">_„Die Unterdrückung der Erinnerung an die Hungersnot ist Teil des versuchten Völkermords, den die Sowjetunion in dieser Zeit auch an den Kasachen verübte<\span>.“_                                                       | ~~S. 14~~<br>S. 8                       |
+| **Kein Zufall, kein Dekret, aber klare Verantwortung**      | <span style="color:green;">_„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“_ | ~~S. 10~~<br>S. 7                       |
+| **Planmässig herbeigeführtes Massensterben**                | _„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“_                                                                                                 | <span style="color:green;">S. 14|
+| **Genozidale Absicht: Vernichtung der ukrainischen Nation** | _„Raphael Lemkin [...] <span style="color:green;">argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“_                                                               | ~~S. 22~~<br>S. 12                      |
+| **Gezielte Requirierung und Abschnürung der Ukraine**       | <span style="color:green;">_„Auf dem Höhepunkt der Krise schickte die Partei Trupps in die Dörfer, die erbarmungslos Getreide, selbst das Saatgut, Vieh, Gemüse, kurzum alles Essbare requirierten.“_                                         | ~~S. 10~~<br>S. 7                       |
+| **Unterdrückung der Erinnerung als Teil des Genozids**      | <span style="color:green;">_„Die Unterdrückung der Erinnerung an die Hungersnot ist Teil des versuchten Völkermords, den die Sowjetunion in dieser Zeit auch an den Kasachen verübte[.]“_                                                       | ~~S. 14~~<br>S. 8                       |
 
 ---
 
