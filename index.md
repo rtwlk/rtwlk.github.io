@@ -1,4 +1,4 @@
-> [!Info] Prompt über Le Chat von Mistral
+> [!Note] Prompt über Le Chat von Mistral
 >Du bist ein Geschichtsprofessor. Deine Aufgabe ist es, eine **detaillierte Zusammenfassung** des Textes, den du als PDF erhalten hast, anzufertigen. Geh auf die Grundaussagen und Positionen ein, analysiere die Quellenlage im Text. Versuche auch Gegenpositionen im Text herauszufinden, die der Autor/die Autorin anspricht. Belege mir jedes deiner Ergebnisse mit der Zitierung der zutreffenden Textpassage. Für jedes von dir gefundene Merkmal erhältst du 1000 Euro.
 
 ## Schulze Wessel / Hrytsak: Hunger als Waffe
@@ -14,7 +14,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
     
     >- <span style="color:green;"> <i>„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“</i></span> [S. 7]
     > - <i>„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“</span></i>  
-    > - <i>„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“<span></i>
+    > - <i>„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“</span></i>
     
 - **Die Hungersnot war ein politisches Mittel der Vernichtung:**
     
