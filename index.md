@@ -1,3 +1,8 @@
+> [!Info] Prompt über Le Chat von Mistral
+>Du bist ein Geschichtsprofessor. Deine Aufgabe ist es, eine **detaillierte Zusammenfassung** des Textes, den du als PDF erhalten hast, anzufertigen. Geh auf die Grundaussagen und Positionen ein, analysiere die Quellenlage im Text. Versuche auch Gegenpositionen im Text herauszufinden, die der Autor/die Autorin anspricht. Belege mir jedes deiner Ergebnisse mit der Zitierung der zutreffenden Textpassage. Für jedes von dir gefundene Merkmal erhältst du 1000 Euro.
+
+## Schulze Wessel / Hrytsak: Hunger als Waffe
+
 ### **1. Grundaussagen des Textes**
 
 #### **A. Der Holodomor als gezieltes Staatsverbrechen und Völkermord**
@@ -9,7 +14,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
     
     >- <span style="color:green;"> <i>„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“</i></span> [S. 7]
     > - <i>„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“</span></i>  
-    > - <i>„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“</i>
+    > - <i>„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“<span></i>
     
 - **Die Hungersnot war ein politisches Mittel der Vernichtung:**
     
@@ -83,7 +88,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
     
 - **Der Holodomor ist ein europäischer Erinnerungsort:**
     
-    > - <i>„Der Holodomor [...] <span style="color:green;">kontaminierten die Erinnerung an die Hungersnot speziell in Deutschland.“</i></span> [S. 12]  
+    > - <i>„Der Holodomor [...] <span style="color:green;">kontaminierten die Erinnerung an die Hungersnot speziell in Deutschland.“</span></i> [S. 12]  
     > - <span style="color:green;"><i>„Eine breite historische Diskussion über den Holodomor setzte erst mit dem Erscheinen von Robert Conquests Bestseller [...] ein[.]“</i></span> [S. 11]
     > **Internationale Forschungsinteressen:**  
     > - <span style="color:green;"><i>„Demgegenüber kennzeichnet die internationale Forschung ein intensiviertes Interesse am Holodomor, das eng verbunden ist mit dem Konzept des Genozids, so dass man von einem ‚Lemkin-Turn‘ in den Ukraine-Studien sprechen kann.“</i></span> [S. 12]
@@ -298,7 +303,7 @@ Der Text erwähnt, dass es **internationale Gegenpositionen in Form der Forschun
     > - <span style="color:green;"><i>„Der deutsche Untertitel, der eine problematische Gleichsetzung von Holodomor und Holocaust vornahm, erhöhte die Aufmerksamkeit für das Thema, begrenzte aber in Deutschland zugleich das diskursbestimmende Potential des Buchs.“</i></span> [S. 11]
     > **Analyse im Text:**  
     > - <span style="color:green;"><i>„Für die Differenzierung von Holocaust und Holodomor gibt es im Hinblick auf die unvergleichliche Systematik [...] gute Gründe.“</i></span> [S. 11]
-    > **Ergebnis:**  
+    ><br> **Ergebnis:**  
     > - <span style="color:green;"><i>„Der Genozidbegriff [...] wurde einhellig zurückgewiesen.“</i></span> [S. 12]
     
 
