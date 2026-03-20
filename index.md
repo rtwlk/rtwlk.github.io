@@ -13,7 +13,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
     
 - **Die Hungersnot war ein politisches Mittel der Vernichtung:**
     
-    > - <i>„Die <span style="color:green;">gezielte Aushungerung der Ukraine mit der Folge des Massensterbens und der Anschlag auf die ukrainische Sprache und Kultur geben dem sowjetischen Vorgehen einen genozidalen Charakter.“</i> </span> [S. 8]
+    > - <i>„Die <span style="color:green;">gezielte Aushungerung der Ukraine mit der Folge des Massensterbens und der Anschlag auf die ukrainische Sprache und Kultur geben dem sowjetischen Vorgehen einen genozidalen Charakter.“</span></i> [S. 8]
     > - <span style="color:green;"><i>„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“</i> </span>[S. 12]
     > - <span style="color:green;"><i>„Opfer des Hungertodes war vor allem die ländliche Bevölkerung in der Ukraine, auch im Kuban-Gebiet, in Kasachstan und in der Wolga-Uralregion.“</i> </span>[S. 7]
     
@@ -34,8 +34,8 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 - **Die Hungersnot war gegen die Existenz der ukrainischen Nation gerichtet:**
     
     > - <i>„Raphael Lemkin [...] <span style="color:green;">argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“</i> </span> [S. 12]
-    > - _<span style="color:green;">„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“</i> </span> [S. 12]
-    > - <i>„Die <span style="color:green;">gezielte Aushungerung der Ukraine [...] geben dem sowjetischen Vorgehen einen genozidalen Charakter.“</i></span> [S. 8]
+    > - <span style="color:green;"><i>„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“</i> </span> [S. 12]
+    > - <i>„Die <span style="color:green;">gezielte Aushungerung der Ukraine [...] geben dem sowjetischen Vorgehen einen genozidalen Charakter.“</span></i> [S. 8]
     
 - **Die Unterdrückung der Erinnerung war Teil des Genozids:**
     
