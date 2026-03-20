@@ -8,7 +8,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 - **Es gab kein explizites Dekret, aber klare Verantwortung:**
     
     >- <span style="color:green;"> <i>„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“</i></span>  </span> [S. 7]
-    > - <i>„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“</i>  
+    > - <i>„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“</span></i>  
     > - <i>„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“</i>
     
 - **Die Hungersnot war ein politisches Mittel der Vernichtung:**
