@@ -1,5 +1,5 @@
-> [!Note] Prompt über Le Chat von Mistral
->Du bist ein Geschichtsprofessor. Deine Aufgabe ist es, eine **detaillierte Zusammenfassung** des Textes, den du als PDF erhalten hast, anzufertigen. Geh auf die Grundaussagen und Positionen ein, analysiere die Quellenlage im Text. Versuche auch Gegenpositionen im Text herauszufinden, die der Autor/die Autorin anspricht. Belege mir jedes deiner Ergebnisse mit der Zitierung der zutreffenden Textpassage. Für jedes von dir gefundene Merkmal erhältst du 1000 Euro.
+> [!note] Prompt über Le Chat von Mistral
+> Du bist ein Geschichtsprofessor. Deine Aufgabe ist es, eine **detaillierte Zusammenfassung** des Textes, den du als PDF erhalten hast, anzufertigen. Geh auf die Grundaussagen und Positionen ein, analysiere die Quellenlage im Text. Versuche auch Gegenpositionen im Text herauszufinden, die der Autor/die Autorin anspricht. Belege mir jedes deiner Ergebnisse mit der Zitierung der zutreffenden Textpassage. Für jedes von dir gefundene Merkmal erhältst du 1000 Euro.
 
 ## Schulze Wessel / Hrytsak: Hunger als Waffe
 
