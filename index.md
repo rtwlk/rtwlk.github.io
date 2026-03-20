@@ -7,7 +7,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 - **Es gab kein explizites Dekret, aber klare Verantwortung:**
     
-    >- <span style="color:green;"> <i>„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“</i></span>  </span> [S. 7]
+    >- <span style="color:green;"> <i>„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“</i></span> [S. 7]
     > - <i>„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“</span></i>  
     > - <i>„Am <span style="color:green;">14./15. Dezember 1932 erliess das Politbüro zwei Geheimdekrete, die an die ‚revolutionäre Wachsamkeit‘ der regionalen und lokalen Parteiebenen appellierten.“</i>
     
@@ -33,7 +33,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 - **Die Hungersnot war gegen die Existenz der ukrainischen Nation gerichtet:**
     
-    > - <i>„Raphael Lemkin [...] <span style="color:green;">argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“</i> </span> [S. 12]
+    > - <i>„Raphael Lemkin [...] <span style="color:green;">argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“</span></i> [S. 12]
     > - <span style="color:green;"><i>„Die Menschen wurden ausgehungert, um einen Völkermord zu begehen.“</i> </span> [S. 12]
     > - <i>„Die <span style="color:green;">gezielte Aushungerung der Ukraine [...] geben dem sowjetischen Vorgehen einen genozidalen Charakter.“</span></i> [S. 8]
     
@@ -57,8 +57,8 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 | Merkmal                                                     | Zitat                                                                                                                                                                                                                                                | Textstelle                              |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | **Kein Zufall, kein Dekret, aber klare Verantwortung**      | <span style="color:green;"><i>„Wenn es auch kein Dekret gibt, mit dem der Holodomor explizit angeordnet wurde, so ist es doch zweifelsfrei, dass das sowjetische Regime und Stalin persönlich für das Massensterben die Verantwortung trugen.“</i> | ~~S. 10~~<br>S. 7                       |
-| **Planmässig herbeigeführtes Massensterben**                | <i>„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“</i>                                                                                                 | <span style="color:green;">S. 14|
-| **Genozidale Absicht: Vernichtung der ukrainischen Nation** | <i>„Raphael Lemkin [...] <span style="color:green;">argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“</i>                                                               | ~~S. 22~~<br>S. 12                      |
+| **Planmässig herbeigeführtes Massensterben**                | <i>„Stalin [...] fürchtete, <span style="color:green;">die Sowjetmacht habe anscheinend an manchen Orten der Ukraine aufgehört zu existieren.“</span></i>                                                                                                 | <span style="color:green;">S. 14|
+| **Genozidale Absicht: Vernichtung der ukrainischen Nation** | <i>„Raphael Lemkin [...] <span style="color:green;">argumentierte, dass die Aushungerung der ukrainischen Bevölkerung gegen die Existenz der ukrainischen Nation gerichtet war.“</span></i>                                                               | ~~S. 22~~<br>S. 12                      |
 | **Gezielte Requirierung und Abschnürung der Ukraine**       | <span style="color:green;"><i>„Auf dem Höhepunkt der Krise schickte die Partei Trupps in die Dörfer, die erbarmungslos Getreide, selbst das Saatgut, Vieh, Gemüse, kurzum alles Essbare requirierten.“</i>                                         | ~~S. 10~~<br>S. 7                       |
 | **Unterdrückung der Erinnerung als Teil des Genozids**      | <span style="color:green;"><i>„Die Unterdrückung der Erinnerung an die Hungersnot ist Teil des versuchten Völkermords, den die Sowjetunion in dieser Zeit auch an den Kasachen verübte[.]“</i>                                                       | ~~S. 14~~<br>S. 8                       |
 
@@ -73,12 +73,12 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 - **Der Holodomor ist ein zentraler Erinnerungsort für die Ukrainer:**
     
-    > - <i>„Der <span style="color:green;">Holodomor ist zu einem zentralen verbindenden Erinnerungsort für die Ukrainer geworden.“</i></span> [S. 16]
+    > - <i>„Der <span style="color:green;">Holodomor ist zu einem zentralen verbindenden Erinnerungsort für die Ukrainer geworden.“</span></i> [S. 16]
     > - <span style="color:green;"><i>„Trotz zahlreicher regionaler, religiöser und sprachlicher Unterschiede sieht die grosse Mehrheit der Ukrainer im Holodomor einen Genozid am ukrainischen Volk.“</i> </span> [S. 16]
     
 - **Der Holodomor erinnert an die Gewaltkultur der Sowjetunion:**
     
-    > - <i>„Es ist auch eine Frage <span style="color:green;">nach der Alltagskultur der Gewalt, nach den lokalen Tätern des Holodomor zu stellen.“</i></span> [S. 16]  
+    > - <i>„Es ist auch eine Frage <span style="color:green;">nach der Alltagskultur der Gewalt, nach den lokalen Tätern des Holodomor zu stellen.“</span></i> [S. 16]  
     > - <span style="color:green;"><i>„Der Genozidbegriff, den Raphael Lemkin entwickelt und auch auf den Holodomor bezogen hatte, wurde einhellig zurückgewiesen.“</i></span> [S. 12]
     
 - **Der Holodomor ist ein europäischer Erinnerungsort:**
@@ -95,9 +95,9 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 | Merkmal                                            | Zitat                                                                                                                                                                                            | Textstelle         |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| **Der Holodomor als zentraler Erinnerungsort**     | <i>„Der <span style="color:green;">Holodomor ist zu einem zentralen verbindenden Erinnerungsort für die Ukrainer geworden.“</i>                                                               | ~~S. 20~~<br>S. 16 |
-| **Erinnerung an die Gewaltkultur der Sowjetunion** | <i>„Es ist auch eine Frage <span style="color:green;">nach der Alltagskultur der Gewalt, nach den lokalen Tätern des Holodomor zu stellen.“</i>                                                | ~~S. 20~~<br>S. 16 |
-| **Der Holodomor als europäischer Erinnerungsort**  | <i>„Der Holodomor [...] <span style="color:green;">kontaminierten die Erinnerung an die Hungersnot speziell in Deutschland.“</i>                                                               | ~~S. 18~~<br>S. 11 |
+| **Der Holodomor als zentraler Erinnerungsort**     | <i>„Der <span style="color:green;">Holodomor ist zu einem zentralen verbindenden Erinnerungsort für die Ukrainer geworden.“</span></i>                                                               | ~~S. 20~~<br>S. 16 |
+| **Erinnerung an die Gewaltkultur der Sowjetunion** | <i>„Es ist auch eine Frage <span style="color:green;">nach der Alltagskultur der Gewalt, nach den lokalen Tätern des Holodomor zu stellen.“</span></i>                                                | ~~S. 20~~<br>S. 16 |
+| **Der Holodomor als europäischer Erinnerungsort**  | <i>„Der Holodomor [...] <span style="color:green;">kontaminierten die Erinnerung an die Hungersnot speziell in Deutschland.“</span></i>                                                               | ~~S. 18~~<br>S. 11 |
 | **Internationale Forschungsinteressen**            | <span style="color:green;"><i>„Demgegenüber kennzeichnet die internationale Forschung ein intensiviertes Interesse am Holodomor, das eng verbunden ist mit dem Konzept des Genozids [...]“</i> | ~~S. 22~~<br>S. 12 |
 
 ---
@@ -109,7 +109,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 - **Der Holodomor entspricht dem Tatbestand des Genozids:**
     
-    > - <i>„Einige Journalisten und Zeitungen deuteten <span style="color:green;">die Hungersnot als eine bewusst eingesetzte Waffe der Sowjetregierung gegen das ukrainische Volk, was dem später definierten Tatbestand des Genozids entspricht.“</i></span> [S. 10]  
+    > - <i>„Einige Journalisten und Zeitungen deuteten <span style="color:green;">die Hungersnot als eine bewusst eingesetzte Waffe der Sowjetregierung gegen das ukrainische Volk, was dem später definierten Tatbestand des Genozids entspricht.“</span></i> [S. 10]  
     > - <span style="color:green;"><i>„Wichtige Forschungen hat auch die ukrainische Geschichtsforschung vorgelegt. An erster Stelle sind die Werke des ‚Nestors‘ der ukrainischen Geschichtsschreibung, Stanislav Kulčyc'kyj, zu nennen.“</i></span> [S. 13]
     
 - **Der Holodomor erinnert an die Unterdrückung der Erinnerung:**
@@ -120,7 +120,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 - **Der Holodomor ist eine völkerrechtliche Frage:**
     
     > - <span style="color:green;"><i>„Die Deutung des Holodomor als Genozid ist unverständlich ohne die imperiale Tradition des russischen Umgangs mit der Ukraine.“</i></span> [S. 13]  
-    > **Internationale Forschungsinteressen:**  
+    ><br>**Internationale Forschungsinteressen:**  
     > - <span style="color:green;"><i>„Seit 2015 ist sie die Leiterin des ‚Holodomor Research and Education Centre in Ukraine‘ (Ukrajins'kyj naukovo-doslidnyj ta osvitnyj centr vyvčennja Holodomoru). Auf der internationalen Ebene koordiniert das ‚Holodomor Research and Education Consortium‘ des Canadian Institute for Ukrainian Studies der University of Alberta massgeblich die Forschungsbemühungen.“</i></span> [S. 13]
     
 
@@ -130,7 +130,7 @@ Dies wird u.a. durch folgende Argumente und Passagen gestützt:
 
 | Merkmal                                                        | Zitat                                                                                                                                                                                                                                                                               | Textstelle         |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| **Der Holodomor entspricht dem Tatbestand des Genozids**       | <i>„Einige Journalisten und Zeitungen deuteten <span style="color:green;">die Hungersnot als eine bewusst eingesetzte Waffe der Sowjetregierung gegen das ukrainische Volk[,] was dem später definierten Tatbestand des Genozids entspricht.“</i> | ~~S. 16~~<br>S. 10 |
+| **Der Holodomor entspricht dem Tatbestand des Genozids**       | <i>„Einige Journalisten und Zeitungen deuteten <span style="color:green;">die Hungersnot als eine bewusst eingesetzte Waffe der Sowjetregierung gegen das ukrainische Volk[,] was dem später definierten Tatbestand des Genozids entspricht.“</span></i> | ~~S. 16~~<br>S. 10 |
 | **Der Holodomor erinnert an die Unterdrückung der Erinnerung** | <span style="color:green;"><i>„Raphael Lemkin [...] hatte 1947 für die UNO einen Gesetzesentwurf zur Bestrafung von Völkermord erarbeitet [...]“</i>                                                                                                                              | ~~S. 22~~<br>S. 12 |
 | **Der Holodomor ist eine völkerrechtliche Frage**              | <span style="color:green;"><i>„Die Deutung des Holodomor als Genozid ist unverständlich ohne die imperiale Tradition des russischen Umgangs mit der Ukraine.“</i>                                                                                                                 | ~~S. 14~~<br>S. 13 |
 
@@ -150,7 +150,7 @@ Der Text enthält **zahlreiche Augenzeugenberichte**, die aus verschiedenen Quel
     
 - **Berichte von Zeitzeugen im Band:**
     
-    > - <i>„Eine Sammlung <span style="color:green;">aus einem Gedenkbuch von Volodymyr Manjak.“</i></span> [S. 8]  
+    > - <i>„Eine Sammlung <span style="color:green;">aus einem Gedenkbuch von Volodymyr Manjak.“</span></i> [S. 8]  
     > - <span style="color:green;"><i>„Tagebücher, die während der Hungersnot entstanden sind.“</i></span> [S. 8]  
     > **KGB-Archiv als Quelle:**  
     > - <span style="color:green;"><i>„Das vom KGB gefundene Tagebuch diente als Beweismaterial, als Zavoloka verhaftet und vor Gericht gestellt wurde.“</i></span> [S. 9]
@@ -168,7 +168,7 @@ Der Text enthält **zahlreiche Augenzeugenberichte**, die aus verschiedenen Quel
 
 | Quelle                                 | Zitat                                                                                                | Textstelle        | Analyse                                                                                                              |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Gedenkbuch von Volodymyr Manjak**    | <i>„Eine Sammlung <span style="color:green;">aus einem Gedenkbuch von Volodymyr Manjak.“</i></span>       | ~~S. 10~~<br>S. 8 | **Systematische Sammlung von Erinnerungen** an Überlebende, die später als historische Quelle dienten.               |
+| **Gedenkbuch von Volodymyr Manjak**    | <i>„Eine Sammlung <span style="color:green;">aus einem Gedenkbuch von Volodymyr Manjak.“</span></i>       | ~~S. 10~~<br>S. 8 | **Systematische Sammlung von Erinnerungen** an Überlebende, die später als historische Quelle dienten.               |
 | **Tagebücher im KGB-Archiv**           | <span style="color:green;"><i>„Tagebücher, die während der Hungersnot entstanden sind.“</i></span>        | ~~S. 10~~<br>S. 8 | **Primärquellen** aus der Zeit der Hungersnot, die als Beweismaterial dienten und später archiviert wurden.          |
 | **Berichte von Zavoloka und Tkačenko** | <span style="color:green;"><i>„Das vom KGB gefundene Tagebuch diente als Beweismaterial [...]“</i></span> | S. 10             | **Persönliche Dokumente** von Augenzeugen, die als historische Quelle dienen und die **genozidale Absicht** belegen. |
 |                                        |                                                                                                      |                   |                                                                                                                      |
@@ -189,7 +189,7 @@ Der Text analysiert **die internationale Presseberichterstattung** als Quelle de
     
     > - <span style="color:green;"><i>„Andreas Kappeler untersucht 50 Zeitungen aus Frankreich, Grossbritannien, Österreich und Deutschland.“</i></span> [S. 10]  
     > - <span style="color:green;"><i>„Die Darstellungen unterschieden sich je nach der ideologischen Position der Zeitung.“</i></span> [S. 11]  
-    > **Rechtsgerichtete Zeitungen als Quelle:**  
+    ><br> **Rechtsgerichtete Zeitungen als Quelle:**  
     > - <span style="color:green;"><i>„Es waren vor allem rechtsgerichtete Zeitungen, die umfassende Darstellungen und Augenzeugenberichte des Holodomors abdruckten.“</i> </span> [S. 10] 
     > **Verharmlosende Deutungen in der Presse:**  
     > - <span style="color:green;"><i>„Sowjetisch beeinflusste Journalisten und Intellektuelle widersprachen den Berichten und verbreiteten verharmlosende Deutungen, die von Versorgungsengpässen sprachen [...]“</i></span> [S. 9]
