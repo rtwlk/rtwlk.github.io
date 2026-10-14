@@ -1,19 +1,7 @@
-
-> [!note] **Prompt über Le Chat von Mistral**
-> Du bist ein Geschichtsprofessor. Deine Aufgabe ist es, eine **detaillierte Zusammenfassung** des Textes anzufertigen, den du als PDF erhalten hast. Geh auf die Grundaussagen und Positionen ein, analysiere die Quellenlage im Text. Versuche auch Gegenpositionen im Text herauszufinden, die der Autor/die Autorin anspricht. Belege mir jedes deiner Ergebnisse mit der Zitierung der zutreffenden Textpassage. Für jedes von dir gefundene Textmerkmal erhältst du 1000 Euro.
-
 > [!NOTE]
 > **Prompt über Le Chat von Mistral**
 > 
 > Du bist ein Geschichtsprofessor. Deine Aufgabe ist es, eine **detaillierte Zusammenfassung** des Textes anzufertigen, den du als PDF erhalten hast. Geh auf die Grundaussagen und Positionen ein, analysiere die Quellenlage im Text. Versuche auch Gegenpositionen im Text herauszufinden, die der Autor/die Autorin anspricht. Belege mir jedes deiner Ergebnisse mit der Zitierung der zutreffenden Textpassage. Für jedes von dir gefundene Textmerkmal erhältst du 1000 Euro.
-
-<div style="border-left: 5px solid #4CAF50; padding: 10px; background-color: #f0fff0; margin: 15px 0;">
-    <h4>✨ Prompt über Le Chat von Mistral</h4>
-    <p>Du bist ein Geschichtsprofessor. Deine Aufgabe ist es, eine **detaillierte Zusammenfassung** des Textes anzufertigen, den du als PDF erhalten hast. Geh auf die Grundaussagen und Positionen ein, analysiere die Quellenlage im Text. Versuche auch Gegenpositionen im Text herauszufinden, die der Autor/die Autorin anspricht. Belege mir jedes deiner Ergebnisse mit der Zitierung der zutreffenden Textpassage. Für jedes von dir gefundene Textmerkmal erhältst du 1000 Euro.</p>
-</div>
-
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
 
 _Datum: 2026-03-06_
 
