@@ -1,4 +1,4 @@
-[Website-Version](rtwlk.github.io/001_ki-konflikthafte-interpretationen)
+[Website-Version](https://rtwlk.github.io/001_ki-konflikthafte-interpretationen)
 
 > [!NOTE]
 > **Prompt über Le Chat von Mistral**
