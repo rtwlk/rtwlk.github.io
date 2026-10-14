@@ -14,6 +14,7 @@ Hier ist der zu übersetzende russische Text:
 <details>
 <summary><b>Textpassage</b></summary>
 
+
 ## Записки больной 
  
 Ушедшее. 
