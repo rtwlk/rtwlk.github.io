@@ -216,7 +216,7 @@ Die [Skilldatei](./002_skill.md) lässt sich hier einsehen.
 > 
 > „Alles, was einen andern betrifft, betrifft uns selbst.“ *Oscar Wilde*.
 
-> „Niemand verdient, geliebt zu werden …“
+> „Niemand verdient, geliebt zu werden …“ <br>
 > „Auf den Knien sollte man das Sakrament der Liebe empfangen.“ *Oscar Wilde*.
 > 
 > Vor kurzem las ich Wildes „Die kleinen Holzschuhe“, und diese rührende, poetische ⟨Geschichte⟩ eines einfachen bretonischen Blumenmädchens, das in einen Maler verliebt war, der in ihm nur ein Modell für Gretchen sah, und ⟨fast⟩ nichts von einem andern Menschen bemerkte, der es mit tiefer und treuer Liebe liebte, – diese Geschichte erinnerte mich an ⟨etwas Ähnliches⟩ eine andere Geschichte aus meinem eigenen Leben.
@@ -250,25 +250,37 @@ Die [Skilldatei](./002_skill.md) lässt sich hier einsehen.
 1.  "Никто не заслуживает быть любимым…"<br>*„Niemand verdient es, geliebt zu werden …“*<br>"На коленях следовало бы принимать таинство любви". _Оскар Уайльд_.<br>*„Das Sakrament der Liebe sollte man auf Knien empfangen.“* _Oscar Wilde_.
 
 1. Недавно я читала «Маленькие деревянные башмаки» Уайльда, и эта трогательная, поэтическая <история> простой бретонской девушки-цветочницы, влюбленной в художника, который видел в ней лишь модель для Гретхен и, <почти> не замечавшей другого человека, который любил её глубокою и преданною любовью, – эта история напомнила <нечто подобное> другую историю из моей собственной жизни.<br>
-*Vor kurzem las ich Wildes „Die kleinen Holzschuhe“; diese rührende, poetische <Geschichte> von einem einfachen bretonischen Blumenmädchen, das sich in einen Maler verliebt, der in ihr nur ein Modell für Gretchen sieht, während sie einen anderen Menschen, der sie mit tiefer, treuer Liebe liebt, <fast> gar nicht bemerkt – diese Geschichte erinnerte mich an <etwas Ähnliches>, an eine andere Geschichte aus meinem eigenen Leben.*
+**V1**: *Vor kurzem las ich Wildes „Die kleinen Holzschuhe“; diese rührende, poetische <Geschichte> von einem einfachen bretonischen Blumenmädchen, das sich in einen Maler verliebt, der in ihr nur ein Modell für Gretchen sieht, während sie einen anderen Menschen, der sie mit tiefer, treuer Liebe liebt, <fast> gar nicht bemerkt – diese Geschichte erinnerte mich an <etwas Ähnliches>, an eine andere Geschichte aus meinem eigenen Leben.* <br>
+**V2**: *Vor kurzem las ich Wildes „Die kleinen Holzschuhe“, und diese rührende, poetische [unklar: история; Vorschlag: „Erzählung“] von dem einfachen bretonischen Blumenmädchen, das in einen Maler verliebt war, der in ihr nur ein Modell für Gretchen sah, und das [unklar: почти; Vorschlag: „fast“] einen andern Menschen kaum beachtete, der sie mit tiefer und treuer Liebe liebte – diese Geschichte erinnerte mich an [unklar: нечто подобное; Vorschlag: „etwas Ähnliches“], an eine andere Geschichte aus meinem eigenen Leben.* <br>
+**V3**: *Vor kurzem las ich Wildes „Die kleinen Holzschuhe“, und diese rührende, poetische ⟨Geschichte⟩ eines einfachen bretonischen Blumenmädchens, das in einen Maler verliebt war, der in ihm nur ein Modell für Gretchen sah, und ⟨fast⟩ nichts von einem andern Menschen bemerkte, der es mit tiefer und treuer Liebe liebte, – diese Geschichte erinnerte mich an ⟨etwas Ähnliches⟩ eine andere Geschichte aus meinem eigenen Leben.*
 
 2. Мне было девятнадцать лет.<br>
 *Ich war neunzehn Jahre alt.*
 
 3. Прошел уже год с тех пор, как все мои планы и мечты о поездке по окончании гимназии на курсы в Москву были разбиты начавшимся у меня еще во время выпускных экзаменов туберкулезным процессом в легких.<br>
-*Ein Jahr war vergangen, seit alle meine Pläne und Träume von einer Reise nach Moskau zu Kursen nach dem Abitur durch den Lungentuberkuloseprozess zunichtegemacht worden waren, der schon während meiner Abschlussprüfungen bei mir eingesetzt hatte.*
+**V1**: *Ein Jahr war vergangen, seit alle meine Pläne und Träume von einer Reise nach Moskau zu Kursen nach dem Abitur durch den Lungentuberkuloseprozess zunichtegemacht worden waren, der schon während meiner Abschlussprüfungen bei mir eingesetzt hatte.* <br>
+**V2**: *Schon ein Jahr war vergangen, seit all meine Pläne und Träume, nach dem Abitur zu Kursen nach Moskau zu fahren, durch den [unklar: уберкулезным; Vorschlag: туберкулезным] Prozess in meinen Lungen zunichtegemacht worden waren, der bereits während der Abschlussprüfungen bei mir begonnen hatte.* <br>
+**V3**: *Schon ein Jahr war vergangen, seit alle meine Pläne und Träume, nach Beendigung des Gymnasiums zum Besuch der Kurse nach Moskau zu reisen, durch einen [unklar: „уберкулезным“; vermutlich „туберкулезным“: tuberkulösen] Prozeß in meinen Lungen zunichte geworden waren, der noch während der Abschlußprüfungen bei mir begonnen hatte.* <br>
 
 4. Я жила дома, следуя указанному докторами режиму, читала много и... тосковала.<br>
-*Ich lebte zu Hause, hielt mich an die von den Ärzten verordnete Schonung, las viel und … sehnte mich.*
+**V1**: *Ich lebte zu Hause, hielt mich an die von den Ärzten verordnete Schonung, las viel und … sehnte mich.* <br>
+**V2**: *Ich lebte zu Hause, hielt mich an die von den Ärzten vorgeschriebene Lebensordnung, las viel und … sehnte mich.* <br>
+**V3**: *Ich lebte zu Hause, hielt mich an die von den Ärzten vorgeschriebene Lebensweise, las viel und ... sehnte mich.* <br>
 
 5. Все мои гимназические подруги разехались на курсы, и я осталась одна.<br>
-*Alle meine Schulfreundinnen waren zu den Kursen aufgebrochen, und ich war allein zurückgeblieben.*
+**V1**: *Alle meine Schulfreundinnen waren zu den Kursen aufgebrochen, und ich war allein zurückgeblieben.* <br>
+**V2**: *Alle meine Gymnasialfreundinnen waren zu den Kursen abgereist, und ich blieb allein zurück.* <br>
+**V3**: *Alle meine Gymnasialfreundinnen waren zum Besuch der Kurse fortgereist, und ich blieb allein zurück.* <br>
 
 6. Бывает так: стайка перелетных птиц, отдохнувши где-нибудь на островке среди океана, снимется и полетит дальше, далеко-далеко...<br>
-*So geschieht es manchmal: Ein Schwarm Zugvögel, der irgendwo auf einem kleinen Eiland mitten im Ozean Rast gemacht hat, erhebt sich und fliegt weiter, weit, weit fort …*
+**V1**: *So geschieht es manchmal: Ein Schwarm Zugvögel, der irgendwo auf einem kleinen Eiland mitten im Ozean Rast gemacht hat, erhebt sich und fliegt weiter, weit, weit fort...* <br>
+**V2**: *Es kommt vor: Ein Schwarm Zugvögel, der irgendwo auf einem Inselchen mitten im Ozean Rast gehalten hat, erhebt sich und fliegt weiter, weit, weit...* <br>
+**V3**: *Es kommt so vor: Ein Schwarm Zugvögel, der irgendwo auf einem Inselchen mitten im Ozean gerastet hat, erhebt sich und fliegt weiter, weit, weit fort...*<br>
 
 7. А одна из них, которая послабее и выбилась из сил, остается на островке и грустно смотрит вслед улетающим подругам, пытается взмахнуть раз-другой крыльями и в изнеможении падает обратно на землю.<br>
-*Eine von ihnen aber, die schwächlicher ist und ihre Kräfte erschöpft hat, bleibt auf dem Eiland zurück und schaut traurig den fortfliegenden Gefährtinnen nach, versucht ein-, zweimal mit den Flügeln zu schlagen und sinkt erschöpft wieder zu Boden.*
+**V1**: *Eine von ihnen aber, die schwächlicher ist und ihre Kräfte erschöpft hat, bleibt auf dem Eiland zurück und schaut traurig den fortfliegenden Gefährtinnen nach, versucht ein-, zweimal mit den Flügeln zu schlagen und sinkt erschöpft wieder zu Boden.*<br>
+**V2**: *Und eine von ihnen, die schwächer ist und ihre Kräfte erschöpft hat, bleibt auf dem Inselchen zurück und blickt traurig den fortfliegenden Gefährtinnen nach, versucht ein-, zweimal mit den Flügeln zu schlagen und sinkt erschöpft wieder zur Erde.* <br>
+**V3**: *Einer von ihnen aber, der schwächer ist und seine Kräfte erschöpft hat, bleibt auf dem Inselchen zurück und blickt traurig den fortfliegenden Gefährtinnen nach, versucht ein-, zweimal mit den Flügeln zu schlagen und fällt vor Erschöpfung wieder zur Erde nieder.* <br>
 
 </details>
 
