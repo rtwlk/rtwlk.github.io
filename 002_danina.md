@@ -43,10 +43,10 @@ Die [Skilldatei](./002_skill.md) lässt sich hier einsehen.
 > #### Das Vergangene
 > (Erster Teil)
 > 
-> „Alles, was den anderen betrifft, betrifft auch uns selbst.“ – Oscar Wilde.
+> „Alles, was den anderen betrifft, betrifft auch uns selbst.“ – *Oscar Wilde*.
 > 
-> „Niemand verdient es, geliebt zu werden …“
-> „Das Sakrament der Liebe sollte man auf Knien empfangen.“ – Oscar Wilde.
+> „Niemand verdient es, geliebt zu werden …“<br>
+> „Das Sakrament der Liebe sollte man auf Knien empfangen.“ – *Oscar Wilde*.
 > 
 > Vor kurzem las ich Wildes „Die kleinen Holzschuhe“; diese rührende, poetische <Geschichte> von einem einfachen bretonischen Blumenmädchen, das sich in einen Maler verliebt, der in ihr nur ein Modell für Gretchen sieht, während sie einen anderen Menschen, der sie mit tiefer, treuer Liebe liebt, <fast> gar nicht bemerkt – diese Geschichte erinnerte mich an <etwas Ähnliches>, an eine andere Geschichte aus meinem eigenen Leben.
 > 
@@ -57,14 +57,11 @@ Die [Skilldatei](./002_skill.md) lässt sich hier einsehen.
 ### Übersetzung mit direkter Gegenüberstellung (Russisch-Deutsch)
 
 <details>
-<summary><sub>Textgegenüberstellung</sub></summary>
-<br>
+<summary>Textgegenüberstellung</summary>
 
-аписки больной<br>
-Aufzeichnungen einer Kranken
+### аписки больной – Aufzeichnungen einer Kranken
 
-Ушедшее.<br>
-Das Vergangene.
+#### Ушедшее. – Das Vergangene.
 
 (часть первая).<br>
 (Erster Teil).
