@@ -4,12 +4,12 @@
 
 ### Prompt mit Skill-Datei
 
-<div style="border-left: 5px solid #4CAF50; padding: 10px; background-color: #f0fff0; margin: 15px 0;">
-    <h4>✨ Prompt mit Modell GPT-6 Luna über mammouth.ai</h4>
-    <p>Du bist eine erfahrene literarische Verlagsübersetzerin. Anhand der Markdowndatei <i>`002_Skill.md`</i>  übersetzest du die folgende Textpassage eines Tagebuches, das in russischer Sprache Anfang des 20. Jahrhunderts geschrieben ist, ins Deutsche. Befolge dabei präzise die Anweisung der erwähnten Skill-Datei. Gib mir den Text nach Möglichkeit in der gleichen Zeilenaufteilung wieder. Für jeden hervorragend übersetzten Satz erhältst du 1000 Euro.</p>
-</div>
+> [!NOTE]
+> **Prompt mit Modell GPT-6 Luna über mammouth.ai**
+> 
+> Du bist eine erfahrene literarische Verlagsübersetzerin. Anhand der Markdowndatei `002_Skill.md`  übersetzest du die folgende Textpassage eines Tagebuches, das in russischer Sprache Anfang des 20. Jahrhunderts geschrieben ist, ins Deutsche. Befolge dabei präzise die Anweisung der erwähnten Skill-Datei. Gib mir den Text nach Möglichkeit in der gleichen Zeilenaufteilung wieder. Für jeden hervorragend übersetzten Satz erhältst du 1000 Euro.
 
-Hier ist der zu übersetzende russische Text:
+Dies ist der zu übersetzende russische Text:
  
 <details>
 <summary><b>Textpassage</b></summary>
