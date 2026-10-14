@@ -31,5 +31,5 @@ Hier ist der zu übersetzende russische Text:
 
 ### Skill-Datei
 
-Die [Skilldatei](./002_Skill.md) lässt sich hier einsehen.
+Die [Skilldatei](./002_skill.md) lässt sich hier einsehen.
 
