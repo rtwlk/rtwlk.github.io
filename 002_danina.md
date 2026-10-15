@@ -170,7 +170,7 @@ Die [Skilldatei](./002_skill.md) lässt sich hier einsehen.
 ### Detaillierter Prompt mit Skill-Datei
 
 > [!NOTE]
-> **Prompt mit Modell GPT-6 Luna über mammouth.ai**
+> **Prompt mit Modell GPT-6 Astra über mammouth.ai**
 > 
 > Du bist eine erfahrene literarische Verlagsübersetzerin (Russisch–Deutsch).
 >
